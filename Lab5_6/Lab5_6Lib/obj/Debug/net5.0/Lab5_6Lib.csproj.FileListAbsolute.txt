@@ -1,0 +1,12 @@
+C:\Users\Maxim\Desktop\LabsCSharp-master\Lab5_6Lib\bin\Debug\net5.0\Lab5_6Lib.deps.json
+C:\Users\Maxim\Desktop\LabsCSharp-master\Lab5_6Lib\bin\Debug\net5.0\Lab5_6Lib.dll
+C:\Users\Maxim\Desktop\LabsCSharp-master\Lab5_6Lib\bin\Debug\net5.0\Lab5_6Lib.pdb
+C:\Users\Maxim\Desktop\LabsCSharp-master\Lab5_6Lib\obj\Debug\net5.0\Lab5_6Lib.csproj.AssemblyReference.cache
+C:\Users\Maxim\Desktop\LabsCSharp-master\Lab5_6Lib\obj\Debug\net5.0\Lab5_6Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maxim\Desktop\LabsCSharp-master\Lab5_6Lib\obj\Debug\net5.0\Lab5_6Lib.AssemblyInfoInputs.cache
+C:\Users\Maxim\Desktop\LabsCSharp-master\Lab5_6Lib\obj\Debug\net5.0\Lab5_6Lib.AssemblyInfo.cs
+C:\Users\Maxim\Desktop\LabsCSharp-master\Lab5_6Lib\obj\Debug\net5.0\Lab5_6Lib.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\Desktop\LabsCSharp-master\Lab5_6Lib\obj\Debug\net5.0\Lab5_6Lib.dll
+C:\Users\Maxim\Desktop\LabsCSharp-master\Lab5_6Lib\obj\Debug\net5.0\refint\Lab5_6Lib.dll
+C:\Users\Maxim\Desktop\LabsCSharp-master\Lab5_6Lib\obj\Debug\net5.0\Lab5_6Lib.pdb
+C:\Users\Maxim\Desktop\LabsCSharp-master\Lab5_6Lib\obj\Debug\net5.0\ref\Lab5_6Lib.dll

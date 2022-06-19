@@ -1,0 +1,9 @@
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\Lab3\ListObjects\bin\Debug\ListObjects.dll
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\Lab3\ListObjects\bin\Debug\ListObjects.pdb
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\Lab3\ListObjects\bin\Debug\MeansTranporation.dll
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\Lab3\ListObjects\bin\Debug\MeansTranporation.pdb
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\Lab3\ListObjects\obj\Debug\ListObjects.csproj.AssemblyReference.cache
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\Lab3\ListObjects\obj\Debug\ListObjects.csproj.CoreCompileInputs.cache
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\Lab3\ListObjects\obj\Debug\ListObjects.csproj.CopyComplete
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\Lab3\ListObjects\obj\Debug\ListObjects.dll
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\Lab3\ListObjects\obj\Debug\ListObjects.pdb

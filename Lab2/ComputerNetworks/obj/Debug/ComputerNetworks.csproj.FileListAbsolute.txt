@@ -1,0 +1,9 @@
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\Lab2\ComputerNetworks\bin\Debug\ComputerNetworks.dll
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\Lab2\ComputerNetworks\bin\Debug\ComputerNetworks.pdb
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\Lab2\ComputerNetworks\obj\Debug\ComputerNetworks.csproj.AssemblyReference.cache
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\Lab2\ComputerNetworks\obj\Debug\ComputerNetworks.csproj.CoreCompileInputs.cache
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\Lab2\ComputerNetworks\obj\Debug\ComputerNetworks.dll
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\Lab2\ComputerNetworks\obj\Debug\ComputerNetworks.pdb
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\Lab2\ComputerNetworks\bin\Debug\InputString.dll
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\Lab2\ComputerNetworks\bin\Debug\InputString.pdb
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\Lab2\ComputerNetworks\obj\Debug\ComputerNetworks.csproj.CopyComplete

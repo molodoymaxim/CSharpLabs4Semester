@@ -1,0 +1,92 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0-windows7.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net5.0-windows7.0": [
+      "D:\\Вгу МОиАИС\\лабы C#\\CSLabs2Course4Semester\\Lab5_6\\Lab5_6Lib\\Lab5_6Lib.csproj"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Maxim\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Вгу МОиАИС\\лабы C#\\CSLabs2Course4Semester\\Lab5_6\\Lab5_6Main\\Lab5_6Main.csproj",
+      "projectName": "Lab5_6Main",
+      "projectPath": "D:\\Вгу МОиАИС\\лабы C#\\CSLabs2Course4Semester\\Lab5_6\\Lab5_6Main\\Lab5_6Main.csproj",
+      "packagesPath": "C:\\Users\\Maxim\\.nuget\\packages\\",
+      "outputPath": "D:\\Вгу МОиАИС\\лабы C#\\CSLabs2Course4Semester\\Lab5_6\\Lab5_6Main\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Maxim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0-windows7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "projectReferences": {
+            "D:\\Вгу МОиАИС\\лабы C#\\CSLabs2Course4Semester\\Lab5_6\\Lab5_6Lib\\Lab5_6Lib.csproj": {
+              "projectPath": "D:\\Вгу МОиАИС\\лабы C#\\CSLabs2Course4Semester\\Lab5_6\\Lab5_6Lib\\Lab5_6Lib.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0-windows7.0": {
+        "targetAlias": "net5.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Не удалось найти сведения о проекте для \"D:\\Вгу МОиАИС\\лабы C#\\CSLabs2Course4Semester\\Lab5_6\\Lab5_6Lib\\Lab5_6Lib.csproj\". Если вы используете Visual Studio, причина может заключаться в том, что проект выгружен или не является частью текущего решения. В этом случае выполните восстановление из командной строки. В противном случае причина может быть связана с тем, что файл проекта является недопустимым или отсутствуют целевые объекты, необходимые для восстановления.",
+      "libraryId": "D:\\Вгу МОиАИС\\лабы C#\\CSLabs2Course4Semester\\Lab5_6\\Lab5_6Lib\\Lab5_6Lib.csproj",
+      "targetGraphs": [
+        "net5.0-windows7.0"
+      ]
+    }
+  ]
+}

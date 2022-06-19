@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "лаба5_6_с_шарп/1.0.0": {
+        "dependencies": {
+          "Lab5_6Lib": "1.0.0"
+        },
+        "runtime": {
+          "лаба5_6_с_шарп.dll": {}
+        }
+      },
+      "Lab5_6Lib/1.0.0": {
+        "runtime": {
+          "Lab5_6Lib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "лаба5_6_с_шарп/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Lab5_6Lib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

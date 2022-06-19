@@ -1,0 +1,11 @@
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\Lab1\Lab1Main\bin\Debug\Lab1Main.exe.config
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\Lab1\Lab1Main\bin\Debug\Lab1Main.exe
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\Lab1\Lab1Main\bin\Debug\Lab1Main.pdb
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\Lab1\Lab1Main\obj\Debug\Lab1Main.csproj.AssemblyReference.cache
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\Lab1\Lab1Main\obj\Debug\Lab1Main.csproj.SuggestedBindingRedirects.cache
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\Lab1\Lab1Main\obj\Debug\Lab1Main.Properties.Resources.resources
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\Lab1\Lab1Main\obj\Debug\Lab1Main.csproj.GenerateResource.cache
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\Lab1\Lab1Main\obj\Debug\Lab1Main.csproj.CoreCompileInputs.cache
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\Lab1\Lab1Main\obj\Debug\Lab1Main.exe
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\Lab1\Lab1Main\obj\Debug\Lab1Main.pdb
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\Lab1\Lab1Main\obj\Debug\Lab1Main.Form1.resources

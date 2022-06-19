@@ -1,0 +1,16 @@
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\Lab2\Lab2Main\bin\Debug\Lab2Main.exe.config
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\Lab2\Lab2Main\bin\Debug\Lab2Main.exe
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\Lab2\Lab2Main\bin\Debug\Lab2Main.pdb
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\Lab2\Lab2Main\obj\Debug\Lab2Main.csproj.AssemblyReference.cache
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\Lab2\Lab2Main\obj\Debug\Lab2Main.csproj.SuggestedBindingRedirects.cache
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\Lab2\Lab2Main\obj\Debug\Lab2Main.MainForm.resources
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\Lab2\Lab2Main\obj\Debug\Lab2Main.Properties.Resources.resources
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\Lab2\Lab2Main\obj\Debug\Lab2Main.csproj.GenerateResource.cache
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\Lab2\Lab2Main\obj\Debug\Lab2Main.csproj.CoreCompileInputs.cache
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\Lab2\Lab2Main\obj\Debug\Lab2Main.exe
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\Lab2\Lab2Main\obj\Debug\Lab2Main.pdb
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\Lab2\Lab2Main\bin\Debug\ComputerNetworks.dll
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\Lab2\Lab2Main\bin\Debug\InputString.dll
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\Lab2\Lab2Main\bin\Debug\InputString.pdb
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\Lab2\Lab2Main\bin\Debug\ComputerNetworks.pdb
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\Lab2\Lab2Main\obj\Debug\Lab2Main.csproj.CopyComplete

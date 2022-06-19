@@ -1,0 +1,16 @@
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\Lab4\MainForm\bin\Debug\MainForm.exe.config
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\Lab4\MainForm\bin\Debug\MainForm.exe
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\Lab4\MainForm\bin\Debug\MainForm.pdb
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\Lab4\MainForm\obj\Debug\MainForm.csproj.AssemblyReference.cache
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\Lab4\MainForm\obj\Debug\MainForm.csproj.SuggestedBindingRedirects.cache
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\Lab4\MainForm\obj\Debug\MainForm.Form1.resources
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\Lab4\MainForm\obj\Debug\MainForm.Properties.Resources.resources
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\Lab4\MainForm\obj\Debug\MainForm.csproj.GenerateResource.cache
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\Lab4\MainForm\obj\Debug\MainForm.csproj.CoreCompileInputs.cache
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\Lab4\MainForm\obj\Debug\MainForm.exe
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\Lab4\MainForm\obj\Debug\MainForm.pdb
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\Lab4\MainForm\bin\Debug\InputString.dll
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\Lab4\MainForm\bin\Debug\InputString.pdb
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\Lab4\MainForm\obj\Debug\MainForm.csproj.CopyComplete
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\Lab4\MainForm\bin\Debug\MeansTranporationNew.dll
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\Lab4\MainForm\bin\Debug\MeansTranporationNew.pdb

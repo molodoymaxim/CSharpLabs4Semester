@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Controller\**" />
+    <Compile Remove="Models\**" />
+    <EmbeddedResource Remove="Controller\**" />
+    <EmbeddedResource Remove="Models\**" />
+    <None Remove="Controller\**" />
+    <None Remove="Models\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Lab5_6Lib\Lab5_6Lib.csproj" />
+  </ItemGroup>
+
+</Project>

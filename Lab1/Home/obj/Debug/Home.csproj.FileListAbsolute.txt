@@ -1,0 +1,6 @@
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\Lab1\Home\bin\Debug\Home.dll
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\Lab1\Home\bin\Debug\Home.pdb
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\Lab1\Home\obj\Debug\Home.csproj.AssemblyReference.cache
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\Lab1\Home\obj\Debug\Home.csproj.CoreCompileInputs.cache
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\Lab1\Home\obj\Debug\Home.dll
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\Lab1\Home\obj\Debug\Home.pdb

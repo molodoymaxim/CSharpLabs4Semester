@@ -1,0 +1,6 @@
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\Lab4\MeansTranporationNew\bin\Debug\MeansTranporationNew.dll
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\Lab4\MeansTranporationNew\bin\Debug\MeansTranporationNew.pdb
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\Lab4\MeansTranporationNew\obj\Debug\MeansTranporationNew.csproj.AssemblyReference.cache
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\Lab4\MeansTranporationNew\obj\Debug\MeansTranporationNew.csproj.CoreCompileInputs.cache
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\Lab4\MeansTranporationNew\obj\Debug\MeansTranporationNew.dll
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\Lab4\MeansTranporationNew\obj\Debug\MeansTranporationNew.pdb

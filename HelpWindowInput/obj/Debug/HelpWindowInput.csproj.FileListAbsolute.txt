@@ -1,0 +1,16 @@
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\InputString\bin\Debug\InputString.dll
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\InputString\bin\Debug\InputString.pdb
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\InputString\obj\Debug\HelpWindowInput.csproj.AssemblyReference.cache
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\InputString\obj\Debug\InputString.InputStringDialog.resources
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\InputString\obj\Debug\HelpWindowInput.csproj.GenerateResource.cache
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\InputString\obj\Debug\HelpWindowInput.csproj.CoreCompileInputs.cache
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\InputString\obj\Debug\InputString.dll
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\InputString\obj\Debug\InputString.pdb
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\HelpWindowInput\bin\Debug\InputString.dll
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\HelpWindowInput\bin\Debug\InputString.pdb
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\HelpWindowInput\obj\Debug\HelpWindowInput.csproj.AssemblyReference.cache
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\HelpWindowInput\obj\Debug\HelpWindowInput.csproj.GenerateResource.cache
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\HelpWindowInput\obj\Debug\HelpWindowInput.csproj.CoreCompileInputs.cache
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\HelpWindowInput\obj\Debug\InputString.dll
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\HelpWindowInput\obj\Debug\InputString.pdb
+D:\Вгу МОиАИС\лабы C#\CSLabs2Course4Semester\HelpWindowInput\obj\Debug\HelpWindowInput.InputStringDialog.resources
